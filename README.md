@@ -21,6 +21,6 @@ A modern and responsive landing page built with only HTML & CSS.
 ## 📦 Files:
 - index.html
 - style.css
-************|
+
 
 Created by: Shrouk Yasser ✨
